@@ -19,5 +19,4 @@ Testing option now have one option. with android
 
 |---|---|
 | Platform | execution |
-|---|---|
 | Android | `npm run dev:android` |
